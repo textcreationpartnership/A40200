@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here you may see what was the true honour amongst the Jewes to magistrates, kings, fathers, mothers, masters, dames, and old men, which did not use the putting off the hat, nor scraping backward the foot ...</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40200</idno>
+            <idno type="STC">Wing F1841</idno>
+            <idno type="STC">ESTC R35523</idno>
+            <idno type="EEBO-CITATION">15353380</idno>
+            <idno type="OCLC">ocm 15353380</idno>
+            <idno type="VID">103478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here you may see what was the true honour amongst the Jewes to magistrates, kings, fathers, mothers, masters, dames, and old men, which did not use the putting off the hat, nor scraping backward the foot ...</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103478:1"/>
+            <pb facs="tcp:103478:1" rendition="simple:additions"/>
+            <p>Here you may ſee what was The True Honour Amongſt the JEWES, To <hi>Magiſtrates, Kings, Fathers, Mothers, Maſters, Dames,</hi> and
+<hi>Old Men;</hi> which did not uſe the putting off the Hat, nor ſcraping backwards the Foot; And what was the Ho<g ref="char:EOLhyphen"/>nour they Forbade; And what is the Honour <hi>Peter</hi> ſpeaks of, <hi>To Honour all men, and to them that Rule Well, that was worthy of Double Ho<g ref="char:EOLhyphen"/>nour:</hi> among whom, the putting off the Hat was not uſed: which honour of Chriſtians, ſince the Apoſtles dayes, have turned to put<g ref="char:EOLhyphen"/>ting off the Hat, and ſcraping Backwards; but putting off the Hat, on Bonnet, or Covering, was not uſed among the <hi>Jewes,</hi> nor in thoſe parts of the World, though they were to Honour and Eſteem, and Reſpect all Men, loving Enemies.</p>
+            <p>Which <hi>Practice,</hi> according to Scripture, we own &amp; practice, Honouring all men, and them that Rule Well double Honour, as
+<hi>Fathers, Mothers, Maſters, Dames, &amp;c.</hi> 1 Pet. 4.1, 2.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the
+<hi>Black-Spread-Eagle</hi> and <hi>Wind-mill</hi> in <hi>Martin l'Grand,</hi>
+1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103478:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:103478:2" rendition="simple:additions"/>
+            <head>Here you may See what was the True Honour amongſt the
+<hi>Jewes,</hi> to <hi>Magiſtra<g ref="char:EOLhyphen"/>tes, Kings, Fathers, Mothers, Maſters, Dames,</hi> and <hi>Old Men;</hi> who did not uſe the putting off the
+<hi>Hat,</hi> nor Scraping Backwards the <hi>Foot;</hi> and what was the Ho<g ref="char:EOLhyphen"/>nour they Forbade, and what is the Honour <hi>Peter</hi> Spake of, to Honour all Men, &amp;c.</head>
+            <head type="sub">The <hi>Objections</hi> of the <hi>World,</hi> and the <hi>Profeſſors, Teachers,</hi> and <hi>Magiſtrates,</hi> againſt the <hi>Q<g ref="char:V">Ʋ</g>A<g ref="char:EOLhyphen"/>KERS,</hi> Anſwered.</head>
+            <p>FIrſt, ſay They, <hi>You do not Honour all Men, which is according to the Apostles Doctrine in the Scriptures, as in</hi> 1 Pet. 2.17.
+<hi>Honour all men, Love the Brother<g ref="char:EOLhyphen"/>hood; Fear God, Honour the King: And them that Do Well, are Worthy of Double Honour.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Now <hi>to Honour all men,</hi> is to have
+<hi>all men in E<g ref="char:EOLhyphen"/>steem,</hi> or <hi>to Regard them,</hi> as the word
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nifies: And <hi>to Honour the King, and them that Rule Well, who are Worthy of Double Honour;</hi> That is, They ſhould have <hi>Double Eſteem,</hi> more than they that are <hi>Ruled;</hi> yet they <hi>that are Ruled,</hi> are to be had <hi>in Esteem,</hi> if all men <hi>be Honoured,</hi> Though they <hi>that Rule Well,</hi> have <hi>Double Esteem;</hi> for
+<hi>Honour,</hi> is <hi>Eſteem;</hi> Now they that do <hi>eſteem all men,</hi> will not <hi>hurt them,</hi> will do <hi>no man hurt:</hi> Now they that do <hi>eſteem Governors,</hi> and <hi>Ru<g ref="char:EOLhyphen"/>lers</hi> with <hi>double esteem,</hi> more than common people; they will never <hi>hurt</hi> their
+<hi>Governors,</hi> nor thoſe <hi>Rulers,</hi> nor <hi>peo<g ref="char:EOLhyphen"/>ple</hi> they do
+<hi>eſteem:</hi> So if all <hi>Christendom</hi> had <hi>esteemed</hi> their
+<hi>Governors</hi> and <hi>Rulers,</hi> or <hi>one another,</hi> they would never have <hi>hurt them;</hi> for if they <hi>esteem</hi> them, they <hi>love them;</hi> And had the <hi>eſteemed</hi> all men, and people, they would ne<g ref="char:EOLhyphen"/>ver <pb n="2" facs="tcp:103478:3"/>have <hi>hurt one another;</hi> for they that
+<hi>eſteeme one ano<g ref="char:EOLhyphen"/>ther,</hi> they <hi>love one another;</hi> and they that
+<hi>love</hi> one another, will not <hi>hurt</hi> one another, nor ſuffer others to <hi>hurt them,</hi> but <hi>esteem</hi> one another: For will a man
+<hi>hurt</hi> that Magi<g ref="char:EOLhyphen"/>ſtrate he doth <hi>esteem?</hi> And all men are to be
+<hi>esteemed,</hi> and them that <hi>Rule Well</hi> are worthy of <hi>Double Esteem;</hi> and then will they <hi>hurt</hi> them? therefore, if you
+<hi>esteem</hi> them, you will do no <hi>hurt</hi> to them; but this
+<hi>esteem</hi> that men ſhould have to one another, hath been turned, and is turned to the <hi>putting off the Hat,</hi> and <hi>ſcraping</hi> the
+<hi>Foot,</hi> and <hi>bowing</hi> the <hi>Knee;</hi> and he that doe
+<hi>this,</hi> is taken for an <hi>esteemer of men,</hi> and an <hi>honourer of Magiſtrates;</hi> but they that do <hi>this,</hi> which is accounted the
+<hi>Honour</hi> in theſe dayes, yet will <hi>Kill</hi> and <hi>Slay one another,</hi> and <hi>Slight</hi> and <hi>Diſ-eſteem one another,</hi> and
+<hi>Defraud,</hi> and <hi>Deceive,</hi> and deal <hi>Traytouſly one with another,</hi> and <hi>Diſ-esteeming one another;</hi> which can<g ref="char:EOLhyphen"/>not properly be called the <hi>Honour,</hi> which the <hi>Scripture ſpeaks</hi> of,
+<hi>Have one another in esteem;</hi> men may have one another <hi>in esteem,</hi> and yet never <hi>put off hat,</hi> nor <hi>ſcrape the foot;</hi> ſo you may ſee they are not the <hi>truest people,</hi> that do
+<hi>Cap</hi> and <hi>Scrape,</hi> which is called a <hi>Worſhip,</hi> and an
+<hi>Honour,</hi> for all the <hi>Mur<g ref="char:EOLhyphen"/>therers</hi> of one another, and of
+<hi>Kings</hi> and other <hi>Magiſtrate<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> they have been ſuch as <hi>Knee,</hi> put off <hi>the Hat,</hi> and <hi>ſcrape;</hi> but had they had one another in
+<hi>esteem,</hi> and truly regarded each <hi>others good,</hi> and the Rulers in <hi>double esteem,</hi> they would ne<g ref="char:EOLhyphen"/>ver have <hi>hurt them,</hi> nor
+<hi>one another:</hi> And ſo according to the Scripture, to <hi>Honour all men,</hi> is to <hi>esteem</hi> or <hi>regard</hi> all men, and they that are worthy of <hi>double,</hi> they are wor<g ref="char:EOLhyphen"/>thy of <hi>double esteem,</hi> which
+<hi>we own;</hi> And this practice <hi>was,</hi> and <hi>is,</hi> where there is no <hi>putting off Hats;</hi> and they that do <hi>Honour,</hi> which is
+<hi>Reſpect, Regard,</hi> or <hi>Esteem,</hi> do <hi>beautifie,</hi> and
+<hi>double beautifie</hi> them that <hi>Rule Well,</hi> and <hi>Adorn</hi> them, as you may read, you <hi>own</hi> words holds forth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Honoro, in Honore habeo, magni aestimo Interdum &amp; earum babeo,</hi> Od. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Iliad.
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Tanto habuit in pretio, &amp; tam delxit quam natos ſuos.</hi>
+            </p>
+            <p>And this is with that <hi>Reſpect</hi> which men have from
+<hi>God</hi> who feare <hi>him;</hi> and who fear <hi>him,</hi> have that with which he <hi>Beautifies</hi> and <hi>Adornes;</hi> and who fear <hi>God,</hi> keeps the <pb n="3" facs="tcp:103478:3"/>
+               <hi>Commands of Christ Jeſus, love</hi> enemies; and who <hi>love</hi> e<g ref="char:EOLhyphen"/>nemies, <hi>esteem</hi> them; and who <hi>esteem</hi> them, <hi>Honour all men,</hi> and ſees them that <hi>Rule Well,</hi> worthy of <hi>Double Ho<g ref="char:EOLhyphen"/>nour, Double Esteem;</hi> and theſe are <hi>they</hi> that come to keep <hi>brotherly fellowſhip,</hi> which is in the <hi>Light; for if we walk in the Light, as he is in the Light, we have fellowſhip one with another;</hi> and the fellowſhip is in the <hi>Spirit,</hi> which is the
+<hi>bond of peace,</hi> which plungeth down the Corruptions, which makes men
+<hi>Dishonorable,</hi> &amp; makes men <hi>Diſ-esteem</hi> one another; with which <hi>Spirit</hi> he comes to give <hi>Honour</hi> to that part which is lacking; ſo we have thoſe members in eſteem which are leaſt; ſo that in the fellowſhip, if one Member be Honoured or Eſteemed, as your Teaching Books holds forth in this place, alſo ſignifies <hi>esteem,</hi> even according to your own Rules of Words, and Teaching Books, though you ren<g ref="char:EOLhyphen"/>der it honour: <hi>Now unto the King Everlaſting, Immortal, Inviſible; unto God only wiſe be</hi> Honour <hi>and</hi> Glory, <hi>for Ever</hi> and
+<hi>Ever,</hi> 1 <hi>Tim.</hi> 17.</p>
+            <p>Now the Apoſtles, the Saints, amongſt all the Courts, a<g ref="char:EOLhyphen"/>mongſt all the Jewes, the people of God of Old, we do ne<g ref="char:EOLhyphen"/>ver Read that they ever fell out one with another, or per<g ref="char:EOLhyphen"/>ſecuted one another, or put any out of places, or Impriſon<g ref="char:EOLhyphen"/>ed or fined any, or one another <hi>for not putting off their Hats,</hi> or <hi>for not bowing</hi> or <hi>ſcraping;</hi> but the
+<hi>Prophets,</hi> and <hi>Christ,</hi> judged them that Honoured with their Lips; ſo there was a Lip Honour: And was not that Lip Honour beyond that of the Hat? and are they not now to be judged, when the heart is far off, ſeeing it is the heart ſatisfies? And who had all men in eſteem, and gave double to them, who are worthy of it? was not this in the reallity in the heart? and it is Read in the Scriptures, that they did wear Hats, as in <hi>Dan.</hi> 3. yet never Forced, Fined, nor Impriſo<g ref="char:EOLhyphen"/>ned, for not putting off their Hats; and ſay, they had not men in eſteem, except they did put off the Hat.</p>
+            <p>Now if men had men in eſteem, that do put off the Hat, and had that been the Eſtemation, then had all been preſerved in Unity and Peace; and the <hi>Jews,</hi> and other ſcattered people, which <hi>Peter</hi> wrote to, <hi>were to have one a<g ref="char:EOLhyphen"/>nother in esteem,</hi> and the Elders <hi>in double Esteem,</hi> which he <pb n="4" facs="tcp:103478:4"/>doth not ſay conſiſteth, or ſtandeth in <hi>putting off the Hat;</hi> neither do we read that the
+<hi>Jews</hi> uſed it; neither do they, who are Native true-Born
+<hi>Jews</hi> or <hi>Hebrews,</hi> at this day practice putting off the Hat in honour one of another; And the <hi>Turks</hi> counts it an odious or hateful practiſe to put off the Hat, (yet they are to Honour) ſo that it is a Proverb, or By-word among them, <hi>that they had rather ſhow their bare head.</hi>
+            </p>
+            <p>Now thoſe eſpecially, which Labour in the Word and Doctrine
+<hi>are to be Double Esteemed;</hi> for they are cloathed <hi>with Honour;</hi> and them that Labour in the Word and Do<g ref="char:EOLhyphen"/>ctrine <hi>they love enemies,</hi> and they muſt of neceſſity have all men in eſteem, that love them; and them that Rule Well, they cannot but have in <hi>double Esteem, Joh.</hi> 12. <hi>He that Ho<g ref="char:EOLhyphen"/>noureth the Son, Honoureth the Father;</hi> and that all men ſhould Honour the Son, as they Honour the Father, and he that Honoureth not the Son, Honoureth not the Father. Now Honour is as before, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to Esteem,</hi> or <hi>Reſpect the Son;</hi> he that <hi>Esteemeth not the Son, Esteemeth not the Father;</hi> or he that <hi>Esteemeth</hi> or <hi>Regardeth the Son, Esteem<g ref="char:EOLhyphen"/>eth</hi> or <hi>Regardeth his Light</hi> wherewith he is Lighted, who Enlightneth every man that cometh into the world; and he that Eſteemeth not the Light, Eſteemeth neither; for in that is the Fellowſhip.</p>
+            <p>Now there is an honour <hi>which is from below,</hi> which peo<g ref="char:EOLhyphen"/>ple, while they are ſeeking, cannot Believe, which honour the
+<hi>Phariſees</hi> were ſeeking, which was the eſteem they ſought from one another; <hi>but did not ſeek that which was from Above.</hi>
+            </p>
+            <p>And there is an honouring <hi>with lips;</hi> there is an eſteem, and there is an honouring <hi>with the Hat,</hi> (called the ho<g ref="char:EOLhyphen"/>nour now a dayes) and have left the eſteeming, and double eſteeming according to Scripture, which is <hi>in Truth</hi> and <hi>Righteouſneſs</hi> in the
+<hi>Heart,</hi> which if men were in, they would never hurt one another, nor fearing of being hurt one by another.</p>
+            <p>And Chriſt ſaith, <hi>A Prophet is not without Honour, ſave in his own Country;</hi> and there is an Honour to <hi>Father</hi> and
+<hi>Mother,</hi> and <hi>Servants</hi> to Honour their <hi>Masters,</hi> where the Circumſtance of putting off the Hat <hi>is not;</hi> therefore you
+<pb n="5" facs="tcp:103478:4"/>muſt know, and conſider this, to have them in
+<hi>esteem,</hi> and to count them <hi>estimable;</hi> and ſo honourable.</p>
+            <p>
+               <hi>No man that taketh this honour to himſelf,</hi> (Mat. 25.)
+<hi>but he that is called of God as Aaron was,</hi> (Heb. 5.) Now the cry is, that none doth, nor ever ſhall hear Gods voyce while upon earth; therefore how can they have <hi>that honour,</hi> or <hi>e<g ref="char:EOLhyphen"/>ſteem,</hi> or know <hi>that eſteem</hi> which Aaron had? now the veſſels <hi>of holyneſs</hi> are veſſells <hi>of honour,</hi> and are in eſteem in Gods eyes; but ſuch as deny the Spirit of God within them, and the Light within them, deny that, whereby they ſhould have all men in eſteem; and Rulers <hi>in double eſteem,</hi> and to have God in eſteem, and his Son in eſteem.</p>
+            <p>And ſo denying the Spirit of God within, and the Light of Chriſt within; they put their Honour <hi>to the Hat,</hi> and
+<hi>Bow<g ref="char:EOLhyphen"/>ing,</hi> &amp; <hi>Scraping,</hi> &amp; are offended if they have it not; ſo living out of the Will of God, which is Sanctification, by which they ſhould receive that Honour which is from above; and ſo are in a Will-Worſhip, and fained Humility, without any true Honour, neglecting the body, for the ſatisfying of the fleſh; honouring with their Lips, and people with their Hats, when their Hearts are afar off. And <hi>putting off the Hat,</hi> is but <hi>a Faſhi<g ref="char:EOLhyphen"/>on of the World,</hi> and an outward thing, like
+<hi>unto the Lip Ho<g ref="char:EOLhyphen"/>nour</hi> and <hi>Tradition</hi> of men, which muſt not be touched, nor taſted, nor followed: The Apoſtles were <hi>in Honour</hi> and <hi>Diſ<g ref="char:EOLhyphen"/>honour,</hi> where they preached up and down; ſo ſome
+<hi>Eſteem<g ref="char:EOLhyphen"/>ed them,</hi> and ſome <hi>Diſeſteemed them;</hi> now them that <hi>Diſ<g ref="char:EOLhyphen"/>esteemed them,</hi> Perſecuted; if <hi>they had esteemed them,</hi> they would not have Perſecuted them, nor have Hurt them: now this you cannot put <hi>to the Hat,</hi> or to them <hi>That did not put off their Hats</hi> to them; for do you not think all thoſe that have Murthered and Perſecuted one another, would not put off their Hats to them, and to one another; and all the Betrayers of one another, and Backbiters, and Evill Speak<g ref="char:EOLhyphen"/>ers, and Underminers of one another, Will not theſe Ho<g ref="char:EOLhyphen"/>nour the ſame perſon <hi>with the Lip</hi> and <hi>Cap?</hi>
+            </p>
+            <p>Now if theſe had one another <hi>in Eſteeme,</hi> which is
+<hi>to Love</hi> one <hi>another,</hi> then Love would <hi>never hurt,</hi> nor
+<hi>plot,</hi> nor <hi>diſturb,</hi> nor <hi>raiſe inſurrections</hi> one againſt another, if they honoured all men.</p>
+            <pb n="6" facs="tcp:103478:5"/>
+            <p n="2">2. Object. <hi>Let every Soul be ſubject to the Higher Power, Rom.</hi> 13. And you doe not put off your Hats; And the Scripture ſaith, <hi>he that Reſiſteth the Power, reſisteth the Ordi<g ref="char:EOLhyphen"/>nance of God; and they that do ſo, receive to themſelves Judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Now the Soul, which is Immortall, <hi>must be ſubject to the Power; there is no power but of God,</hi> and this power is over that Powers of Darkneſs, which are called
+<note n="*" place="margin"> That are out of Truth.</note> Rulers and Power; now to this <hi>the Soul is ſubject,</hi> and he <hi>that reſiſteth this, reſisteth the Ordinance of God.</hi> Here you may ſee that Pow<g ref="char:EOLhyphen"/>er is Gods Ordinance, which the Soul muſt be ſubject to; and
+<hi>Honour, to whom Honour;</hi> and <hi>Cuſtome,</hi> to whom
+<hi>Cuſtome;</hi> and <hi>Tribute,</hi> to whom <hi>Tribute;</hi> and
+<hi>Esteeme,</hi> to whom <hi>E<g ref="char:EOLhyphen"/>ſteem.</hi>
+            </p>
+            <p>
+               <hi>And the Powers which be, are ordained of God, to which the Soul must be ſubject; for there is no Power, but which is of God.</hi> That is, there is no <hi>Supream Authority, Rule,</hi> or <hi>Governments</hi> that are ordained by his Power, but are of God; and the <hi>Powers,</hi> and
+<hi>Principalities,</hi> and <hi>Thrones,</hi> which the Apoſtles wreſtled withall with Spirituall Weapons, and <hi>the Rulers</hi> of
+<hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> in <hi>high places,</hi> theſe were contrary to the power of God which went over them, unto theſe their Souls were not ſub<g ref="char:EOLhyphen"/>ject, for they wreſtled againſt them: Therefore that power which the Soul muſt be ſubject to, is not that which is wreſt<g ref="char:EOLhyphen"/>leſt againſt with Spirituall Weapons, which is Chriſt the Power of God, which Subjects all Powers, Rulers and Go<g ref="char:EOLhyphen"/>vernments unto himſelf; but it is that which minds the
+<hi>lip-honour,</hi> and <hi>the hat,</hi> and the <hi>honour below.</hi>
+            </p>
+            <p n="3">3. Object. <hi>Be kindly affectionated one to another, with bro<g ref="char:EOLhyphen"/>therly love;</hi> Rom. 12. <hi>In honour, preferring one before ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Now here is eſteeming one another in love; ſo as I ſaid before, they do never <hi>hurt</hi> one another, who <hi>prefer</hi> and
+<hi>e<g ref="char:EOLhyphen"/>steeme</hi> one another: Now the Chriſtians <hi>were to honour all men,</hi> that is, <hi>to have all men in esteem,</hi> even <hi>to love enemies,</hi> and were not <hi>to hurt any Creature upon earth. Submit your ſelves to every ordinance of man for the Lords ſake, whether it be to the King, as Supream, or other Governours or Superiours, or Rulers, or Magistrates, who are for the puniſhment of Evill <pb n="7" facs="tcp:103478:5"/>Doers, and for the praiſe of them that do Well:</hi> So that which keeps down the evill doer (the juſt) that is to be ſubmitted to, which is <hi>for the praiſe of them that do well;</hi> but evill doers getting up, that are not for the praiſe of them that do well; The Apoſtles exhorts, <hi>That prayers be made for Rulers that are in Authority, and Interceſſion, and giving of thanks be made for all men, likewiſe as well as for thoſe that are in Authority, Rulers, &amp;c. And that we might live a quiet and peaceable life, in all godlineſs and honesty;</hi> That is, that the Lord may re<g ref="char:EOLhyphen"/>ſtrain them (who hath them in his hand, as he hath the wa<g ref="char:EOLhyphen"/>ters) that they may not lead us into ungodlyneſs and diſ<g ref="char:EOLhyphen"/>honeſty; for that leads out of a peaceable life and quietneſs, ungodlineſs and diſhoneſty doth: Therefore prayers are for them that are in Rule and Authority; and interceſſion to the Lord for them, that we may live a peaceable Life, and a godly Life, and when they are ſtopped from leading and forcing to act things contrary to godlyneſs and honeſty, and a pure conſcience, there is then cauſe of Thanks-giv<g ref="char:EOLhyphen"/>ing and Praiſing, 1 <hi>Pet.</hi> 2.17. For the Apoſtles did croſs the Jews and Gentiles <hi>in their Ordinances, Statutes</hi> and <hi>Cu<g ref="char:EOLhyphen"/>stomes;</hi> Yet wrote, that every ſoul ſhould be ſubject to the higher power, and to every ordinance of man for the Lords Sake, and Conſcience Sake; even the pure Conſcience Sake.</p>
+            <p>Now all Fining and Impriſoning <hi>for not putting off the hat,</hi> hath got up ſince the Apoſtles dayes; ſeeing we never read a<g ref="char:EOLhyphen"/>mongſt the Prophets, amongſt <hi>the Jews,</hi> amongſt the
+<hi>Christians</hi> in the Primitive Times, that ever they did fine or impriſon any for not putting off their Hats: therefore is not this fining and Impriſoning amongſt the Chriſtians, got up ſince the A<g ref="char:EOLhyphen"/>poſtles dayes? and is not this Cap-Honour from below, and worſhiping the Beaſt and Dragon, which hath killed, per<g ref="char:EOLhyphen"/>ſecuted, murthered and betrayed one another, and yet have had the Name of Chriſtians, and have put off hats one to another faſt enough; but if they had had one another <hi>in eſteem,</hi> and the Rulers that ruled well <hi>in double eſteem,</hi> then had never any of them been hurt nor wronged in the whole Chriſtendome, if they had eſteemed one another; but now you may ſee what is become with <hi>this lip-honour,</hi>
+               <pb n="8" facs="tcp:103478:6"/>and <hi>lip-worſhip,</hi> who are treacherous, and murtherous in their hearts. Now that which is in eſteem, is worſhipfull, and comes to have the chiefeſt place, ſuch are worthy of double eſteem; but the Ambitious, which ſeeks <hi>the honour</hi> before <hi>the humility, Luke</hi> 13.23. as Solomon ſpeakes of, are reproved; for before true honour, goeth humility; the ho<g ref="char:EOLhyphen"/>nour and worſhip with the hat, and that humility (ſo cal<g ref="char:EOLhyphen"/>led) is voluntary, and voluntary humility, and not of com<g ref="char:EOLhyphen"/>mand by Chriſt and the Apoſtles; and an honour below, and not from above; and a faſhion of the World, and the fa<g ref="char:EOLhyphen"/>ſhions of the World are forbidden by God and his Ser<g ref="char:EOLhyphen"/>vants.
+<note place="margin"> The Sa<g ref="char:EOLhyphen"/>lutation which the Scripture ſpeaks of, was to ſpeak one to ano<g ref="char:EOLhyphen"/>ther.</note>The Apoſtles ſay, <hi>the faſhion of this world paſſeth away,</hi> therefore the Saints were not to mind them; A ſalu<g ref="char:EOLhyphen"/>tation, that mind that is in pride, is offended, if to him it be not given; and it is a Cuſtom of the World, and a thing below, which they that are Earthly, or below, ſeek; which they that be Heavenly ſeek not, and are from above, but ſeeks the things which be above, and theſe are not troubled about that below, but are of a more Royall Seed; but they that be Earthly are troubled, if they have it not given them, which are covered, but not with the Spi<g ref="char:EOLhyphen"/>rit of the Lord; but they that are uncovered with the earthly, and covered with the Spirit of the Lord, are un<g ref="char:EOLhyphen"/>troubled if men do not give it them, but ſtops them that do; and this ſeeks the honour above, and adorns and beau<g ref="char:EOLhyphen"/>tifies people with that: And out Brother <hi>Paul,</hi> which came before <hi>King Fe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius,</hi> and <hi>Felix the Governour</hi> in their Court, and ſpake and declared freely for himſelf, they were not offended at him for <hi>Thou-ing</hi> of them, and <hi>for not putting off his Hat</hi> or <hi>Covering,</hi> for that the Jews Cuſtom was not <hi>to put off their Hats</hi> or
+<hi>Coverings.</hi>
+            </p>
+            <p>And they that have all men <hi>in eſteem,</hi> and they that rule well are worthy of double eſteem; this is not to reſpect perſons, to the committing of ſin, and the tranſgreſſing the Law, and the putting off the Hat, the giving of honour and eſteem to the Rulers and Great men, the ſame is gi<g ref="char:EOLhyphen"/>ven to the Beggar; and this doth not diſcover mens hearts, but a diſcovering and manifeſting flattery, and hypocri<g ref="char:EOLhyphen"/>cy, and ſuch as will
+<hi>crouch,</hi> and <hi>bow,</hi> and <hi>bend</hi> for <hi>a peice of
+<pb n="9" facs="tcp:103478:6"/>bread,</hi> for their own ends; and for that reſpect <hi>of bowing,</hi> are not men accepted, for bowing with the hat off? that are covered, but not with the Spirit of the Lord, they that have that covering taken off with the Spirit of God, and covered with that, it gives them a Royaller underſtanding, to look beyond that honour below, but at that honour which comes down bowing the Hat, is a will-worſhip, and that which diſcovers mens hearts,
+<note n="*" place="margin">Which is not in the Hat.</note> is the Spirit of God, and leads their minds together, to be one, and their Souls, and their Spirits; and to manifeſt their love to each other, and to have one another in <hi>eſteem;</hi> which is a more nobler thing than the
+<hi>Hat,</hi> for that honour muſt into the duſt: Where is any that ſought more for the honour, which is be<g ref="char:EOLhyphen"/>low; then the Great, and Rich, and Proud <hi>Phariſees</hi> did? as now the Chriſtians do for the hat-honour which is be<g ref="char:EOLhyphen"/>low, which is a figure, that they are neither <hi>believers,</hi> nor ſeek not the honour which is from Above; and ſo will peo<g ref="char:EOLhyphen"/>ple in our Nation, which they will both give, and ſeek, which God will lay both in the duſt: ſo we would have all men come to diſtinguiſh, and conſider, what that honour which is below, is, that God will lay in the duſt; for that is the honour for which men, if it be not given to them, will perſecute:
+<hi>Daniel</hi> came into the Great Court of <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar,</hi> and the
+<hi>Three Children</hi> with their hats, and they were caſt into the
+<hi>Fire,</hi> for not worſhipping their Image with their Hats; Therefore it ſhewes they had them on, and did not put them off, they were caſt into the Fire with them, as well as with their Cloaks; and <hi>Nebuchadnezzar,</hi> and his Court, and his Company, were not Offended at their Hats; for it was not the
+<hi>Jewes</hi> Cuſtom to put them off, and they were of the <hi>Jewes;</hi> neither do we read that <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi> was Offended at them;
+<hi>Daniel,</hi> and the <hi>Three Children thee'd</hi> him, and
+<hi>thou'd</hi> him; and we never Read that <hi>Hezekiah</hi> was offended at
+<hi>Jeremiah,</hi> for <hi>thee-ing</hi> him, and <hi>thou-ing</hi> him; or the Judges and Heads offended at <hi>Micah,</hi> when he ſpoke to them, or did make any queſtion about their Covering, or Hat; nor we never Read, that ever
+<hi>Moſes,</hi> or <hi>David,</hi> or <hi>Solomon,</hi> were offended at any
+<pb n="10" facs="tcp:103478:7"/>for not putting their hats off, or coverings, or for
+<hi>thee-ing,</hi> and <hi>thou-ing</hi> of them that came into the Courts before them, or among them; or <hi>Sampſon,</hi> or <hi>Joſhua,</hi> or
+<hi>Jephthah,</hi> that theſe, or any other that we Read of in the Scriptures, were offended at any that came into their Courts, that did not put off their hats or coverings; or for ſaying <hi>thee,</hi> and <hi>thou</hi> to them, though <hi>Jephthahs</hi> Daughter <hi>thou'd</hi> her Father; for the
+<hi>Jewes</hi> principle was, that they did not put off their hats when they went into the Synagogues or Temples that kept the <hi>Law of God;</hi> though many of the Vagabond <hi>Jews</hi> will do as other Nations do, it may be ſome of them will put off their hats, but that is not owned by them that are true <hi>Jewes,</hi> as it is ſaid by themſelves.</p>
+            <p>And <hi>Steven</hi> he was Examined before the Councel,
+<hi>Act.</hi> 7. We do not read they were offended at his covering.
+<hi>Haman</hi> was offended at <hi>Mordecay,</hi> becauſe he would not obey the Kings Command, and Bow before him in his Court; and though he broke the Kings Command, yet he had <hi>fa<g ref="char:EOLhyphen"/>vour</hi> from him at the laſt; for he had the King in <hi>eſteem;</hi> ſo we would have men, <hi>to have all men in eſteem,</hi> and the Rulers that Rule Well, in <hi>double Esteem;</hi> for we
+<hi>have all men in esteem,</hi> and they that Rule Well, in <hi>double Eſteem,</hi> which is <hi>Honour</hi> according to your own Interpretation.</p>
+            <p>And Chriſt the King of Kings, and Lord of Lords, <hi>Who hath all power in Heaven and Earth given to him,</hi> we never Read of, that he ſet forth an example, or command, that his Diſciples, or any other, ſhould put off their hats that came before him, that had the chiefeſt Court upon all the Earth. Now there has been an honour, and a worſhip given to the Beaſt, and the Dragon, ſince the Apoſtles dayes, and a compelling thereunto.</p>
+            <p>Now men have been <hi>Fined,</hi> and <hi>Impriſoned,</hi> becauſe they would not put off their coverings, or their hats, among the apoſtate chriſtians, ſince the Apoſtles dayes; which we never Read was done among the <hi>Primitive Christians,</hi> in the Apoſtles dayes; and we do never Read, that the Apoſtles, <hi>Timothy, Titus</hi> the Biſhops, did Fine, or Impriſon any that did not put off their hats, or their coverings, for they brought people to ſeek the things which were <hi>Above;</hi> and to
+<pb n="11" facs="tcp:103478:7"/>ſet their affections upon them, and not on things
+<hi>below,</hi> and not to mind <hi>earthly things;</hi> for the hat is an
+<hi>earthly thing,</hi> and a thing <hi>below;</hi> and they that Trouble, Fine, Impriſon about it, cannot chuſe but minde <hi>earthly things,</hi> and mind things <hi>below,</hi> and <hi>Circumstances,</hi> and
+<hi>Cuſtomes,</hi> and <hi>Faſhi<g ref="char:EOLhyphen"/>ons</hi> of the <hi>World,</hi> and ſained <hi>Humility,</hi> in which there is no <hi>Subſtance,</hi> which is below the <hi>Royal Seed,</hi> and the <hi>Nobility,</hi> and Dignity of a man; and the honour Above, and the worſhip of God, and the true <hi>Humility,</hi> which goes before <hi>True Honour,</hi> that is Above.</p>
+            <p>And we never read among all the <hi>Jews</hi> Courts, Rulers, Kings, and Governours, or among all the chriſtians, Chriſt, and the Apoſtles, in the <hi>Primitive times,</hi> that ever any were Fined, or Impriſoned, or Beat for not putting off their cove<g ref="char:EOLhyphen"/>rings or their hats, or ſaying the word <hi>thou</hi> to a man; but this practiſe hath been, and is gotten up ſince the Apoſtles dayes; for which in the Scriptures, we have never an Example; <hi>Moſes</hi> ſaid unto <hi>Aaron,</hi> and
+<hi>Eliazer,</hi> and <hi>Ithamar</hi> his Sons, <hi>
+                  <g ref="char:V">Ʋ</g>ncover not your Heads, nor Rent not your Cloaths, leaſt you Die, and Wrath come upon the people.</hi> This was a Time when the Burning of the Lord was Kindled, and ſhewes their heads were covered when they were before <hi>Moſes,</hi> and he was not offended; and their uncovering their heads ſhewed the Sorrow; and keeping their heads all covered, ſhewed as if they were not moved, whereby the wrath was not to come upon the people; and this ſhewed that they had their heads covered before <hi>Moſes,</hi> and he bid them keep them
+<hi>on,</hi> and not <hi>uncover them,</hi> Levit. 10 6. And the
+<hi>Prieſt</hi> was not to <hi>uncover his Head,</hi> nor <hi>rent his cloathes,</hi> Levit. 21.10. in the Sanctuary, which is contrary to the
+<hi>Prieſts</hi> now in their Temples.</p>
+            <p>And <hi>David</hi> in the time of his ſufferings, and as they went up by the aſſent of the Mount of <hi>Olivet,</hi> wept; and as he went, his head was <hi>coverd,</hi> and all the people that went with him, covered every man his head, and went <hi>weeping;</hi> which ſignifieth, that they uſed to have their heads <hi>covered</hi> before the King; for in the time of <hi>ſuffering</hi> and <hi>mourning,</hi> they uſed to
+<hi>uncover</hi> their heads, and throw <hi>duſt</hi> on them; and
+<hi>David</hi> the King was not offended at the peoples heads
+<pb n="12" facs="tcp:103478:8"/>being <hi>covered,</hi> for his head was <hi>covered,</hi> and their heads was <hi>covered:</hi> And by this you may know there was no
+<hi>reſpect,</hi> nor <hi>honour</hi> with the hat. Now the <hi>Jews</hi> uſed not to honour their Kings, nor one another by uncovering their heads, though they did honour their Kings, by having them in <hi>e<g ref="char:EOLhyphen"/>ſteem</hi> and
+<hi>reſpect,</hi> and that was their Honour; for he bowed the <hi>hearts</hi> of the people, he doth not ſay, he bowed the co<g ref="char:EOLhyphen"/>verings of their
+<hi>heads,</hi> and was offended if they did not; for the Jews never uſed to uncover their heads to the King, Ruler, Judge, nor Supream, nor one to another,
+2 <hi>Sam.</hi> 15.3. But <hi>Jeremiah, Lament.</hi> 2. ſpeaks of
+<hi>caſting duſt, and aſhes on their heads;</hi> this was the eſtate of the mourn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And <hi>Ezekiel</hi> 27.30. <hi>They cast du<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and aſhes on their heads, in the time of weeping and mourning;</hi> and the Lord ſaid unto <hi>Ezekiell, forbear to cry, make no mourning for the dead; bind thy attire on thy head.</hi> Which ſhewed in the time of mourning, many did uncover their heads, which the Lord God forbade, as <hi>Moſes</hi> did formerly, though for the time they did not, <hi>For their heads were covered,</hi> Chron. 24.17. <hi>And the Lord put on Righteouſneſs, as a Breſt-plate, and the Helmet of Salvation upon his Head, and the Garments of Vengeance for Cloathing, and Clad with Zeal for a Cloak,</hi> Iſaiah 59.17.</p>
+            <p>And <hi>Mordecai</hi> bowed not, nor reverenced <hi>Haman,</hi> though it was the Kings Commandement. Now was this an Example Recorded, that
+<hi>proud</hi> men ſhould be reverenced and bowed unto, though it be to the breaking of the Com<g ref="char:EOLhyphen"/>mandement of a King, or Ruler, which is to the hazard<g ref="char:EOLhyphen"/>ing the lives of ſo many thouſands as he did: I ſay, was this an Example Recorded to be followed yea, or nay? <hi>Hester</hi> 3.</p>
+            <p>The <hi>three Children</hi> which would not obſerve
+<hi>Nebuchad<g ref="char:EOLhyphen"/>nezzars</hi> worſhip, <hi>Dan.</hi> 3. nor <hi>bow</hi> to his
+<hi>Image,</hi> nor keep his <hi>Command,</hi> but were bold; you may ſay they were <hi>Stubborn,</hi> for not doing ſo, they caſt them in the
+<hi>Fiery Furnace,</hi> bound them, their Coats, their Hoſen, and their Hats, and other Garments, which ſhewes they had their Hats on: and they did not put off their Hats, but ſtood with their <pb n="13" facs="tcp:103478:8"/>Hats on before the King, and he was not offended with them for that, and it was not the
+<hi>Jews</hi> cuſtom to put off their Hats.</p>
+            <p>Now is not Chriſtians worſe than theſe, who make ſuch a work, and a do about putting off their hats, which are for the covering their nakedneſs? is not here the Chriſtians worſe then <hi>Moſes,</hi> then
+<hi>David,</hi> or <hi>Nebuchadnezzar,</hi> before whom the <hi>Jews</hi> wore their hats without offence, which the Chri<g ref="char:EOLhyphen"/>ſtians cannot bear, who profeſſe a State beyond the <hi>Jews?</hi> but the true <hi>Jews</hi> would not put off their hats, for a <hi>thou<g ref="char:EOLhyphen"/>ſand pounds</hi> to any one, they ſay themſelves, not to King, nor their own Kings, nor in the Synagogue, nor in the Temple, nor in the Streets to any man; and their ho<g ref="char:EOLhyphen"/>nouring men, is to have them in eſteem in their hearts, and the cuſtom is, to take a man by the hand, though ſome of the <hi>portugall Jews,</hi> and the <hi>Jews</hi> in <hi>England</hi> will put off their hats, and ſay your Servant, Sir, who are judged by others of them for ſo doing.</p>
+            <p>
+               <hi>Thou ſhalt riſe up before the Hoary Head, an Honour the face of the Old Man, and Fear God.</hi> Now this honour was to have in eſteem and reſpect, and give them their place as <hi>Elders,</hi> but not put off the hat to them, not for a <hi>thouſand pounds,</hi> ſay the <hi>Jews,</hi> but honour them in their hearts, and have them in reſpect, as being aged,
+<hi>Levit.</hi> 19.32.</p>
+            <p>Exod. 20. <hi>Thou ſhalt Honour thy Father, and Mother, that thy Dayes may be long in the Land which the Lord thy God giv<g ref="char:EOLhyphen"/>eth thee;</hi> this was not to grieve them, nor offend them; if they ſtroke, not to ſtrike them again, but to be ſubject to them, and have them in eſteem, but never to put off their hats; no, not ſuch a thing for a <hi>thouſand pounds,</hi> ſay the <hi>Jews;</hi> ſo this honour to Elders, Fathers, Mothers, and Ru<g ref="char:EOLhyphen"/>lers, have people put to the hat, and ſcraping, and to the old men, and Hoary Heads, and thrown away reſpect, and ſubmiſſiveneſs, and the practice of the Law; and ſo bold<g ref="char:EOLhyphen"/>neſs, impudency, envy, threatning, malice, fighting, diſ<g ref="char:EOLhyphen"/>dain, deriſion, unſubmiſſiveneſs, no obedience, repining, and ſtrikings, diſhonouring againſt Father, Mother, Ru<g ref="char:EOLhyphen"/>lers, yet ſcrape, and put off the hat to them, and doing that, they think its ſufficient, and in that loſes all the <pb n="14" facs="tcp:103478:9" rendition="simple:additions"/>true obedience, and reſpect, and reverence, and eſteem, and ſubmiſſiveneſs, which be done from the heart, with<g ref="char:EOLhyphen"/>out cap, and ſcrape like a Bull that throws the duſt back<g ref="char:EOLhyphen"/>wards.</p>
+            <p>But honouring the Father and Mother, is a figure of honouring God, which was to have them in eſteem, and not to offend, not fin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to grieve them; as not to ſin to grieve and offend God; but by their obedience they had them in eſteem in the Lord, as they had the Lord.</p>
+            <p>And likewiſe Servants honour their Maſters, or Dames, which was not the practiſe with the hat, but with reſpect and reverence, and ſubmiſſive obedience; not with the hat, Scrapings, Courteſies, and bending, and outſide faſhions, but in the obedience of the heart, which doth array, and beautifie; and if they were ſtruck, not to ſtrike again, know<g ref="char:EOLhyphen"/>ing that they had a Maſter in Heaven, wherein they were kept in their meaſures, whence ariſes all good manners, and by which they were kept out of the Evill Words, which did corrupt them.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>To be Courteous, Kind, Affectionate, Affable, Decent, that is, to be gratious, which is not meant by putting off the Hat; for they that were ſo, did not uſe it.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Pet. v. i.</hi>
+                  </bibl>
+                  <p>Forasmuch then; as Chriſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath ſuffered for us in the fleſh, Arm your ſelves likewiſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſame mind: For he that hath ſuffered in the fleſh ha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ceas'd from ſin.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Verſ. 2.</hi>
+                  </bibl>
+                  <p>That he no longer ſhould live the reſt of his time in the fleſh, to the Luſts of men, but to the Will of God.</p> 
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 2. line 36. read <hi>dilexit</hi> for <hi>delxit.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
